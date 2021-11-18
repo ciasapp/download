@@ -1,4 +1,6 @@
-# CIAS (Computerized Intervention Authoring System)
+
+![CIAS Logo](/docs/cias_logo.svg)
+### Computerized Intervention Authoring System
 
 This is the main page. You can use HTML on this page and structure it however you would like.  
 
